@@ -18,8 +18,8 @@ This repository contains our final project for **MECH 6181 – Heating, Ventilat
 Design a full HVAC system with:
 - Manual and Excel-based room-by-room cooling load calculation
 - Duct design and fan selection
-- Equipment sizing using psychrometric chart
-- Practical assumptions based on ASHRAE Handbook
+- Equipment sizing using the psychrometric chart
+- Practical assumptions based on the ASHRAE Handbook
 
 ## 🏢 Room Coverage
 - Conference Room  
@@ -31,7 +31,7 @@ Design a full HVAC system with:
 - Washrooms  
 - Lobby
 
- ![Layout]https://github.com/prathmeshgondkar/HVAC-Cooling-Load-Design-Office-Project/blob/6079833a041aecf16f77445048bed2fc9f42a4f5/Office_Floor_Plan.jpg
+ ![Layout](https://github.com/prathmeshgondkar/HVAC-Cooling-Load-Design-Office-Project/blob/6079833a041aecf16f77445048bed2fc9f42a4f5/Office_Floor_Plan.jpg)
 
 ## ⚙️ Key Results
 - 🔥 Peak Outside Temp: 43°C (Phoenix, June Noon)
@@ -59,4 +59,3 @@ Please contact me on [LinkedIn](www.linkedin.com/in/prathmeshgondkar) if you hav
 ---
 
 📌 For any queries or suggestions, feel free to connect via LinkedIn!
-
