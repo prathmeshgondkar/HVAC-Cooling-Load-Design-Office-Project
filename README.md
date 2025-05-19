@@ -51,6 +51,9 @@ Design a full HVAC system with:
 1. ASHRAE Handbook, 2021 – Fundamentals  
 2. HVAC Analysis & Design by McQuiston, Parker, Spitler
 
+## 📬 Contact
+Please contact me on [LinkedIn](www.linkedin.com/in/prathmeshgondkar) if you have any questions or need collaboration.
+
 ---
 
 📌 For any queries or suggestions, feel free to connect via LinkedIn!
