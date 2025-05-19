@@ -29,7 +29,9 @@ Design a full HVAC system with:
 - Cabin 1 & Cabin 2  
 - Common Working Space  
 - Washrooms  
-- Lobby  
+- Lobby
+
+ ![Layout]https://github.com/prathmeshgondkar/HVAC-Cooling-Load-Design-Office-Project/blob/6079833a041aecf16f77445048bed2fc9f42a4f5/Office_Floor_Plan.jpg
 
 ## ⚙️ Key Results
 - 🔥 Peak Outside Temp: 43°C (Phoenix, June Noon)
